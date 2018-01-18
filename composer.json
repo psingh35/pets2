@@ -1,0 +1,17 @@
+{
+  "name": "jbosegre/IT328_Works/pets2",
+  "authors": [
+    {
+      "name": "Jarod Bose",
+      "email": "jbose@mail.greenriver.edu"
+    },
+    {
+      "name": "Parminder Singh",
+      "email": "psingh35@mail.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
